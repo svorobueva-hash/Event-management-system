@@ -1,0 +1,9 @@
+{
+  "name": "event-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Информационная система организации соревнований по чир спорту",
+  "devDependencies": {
+    "supabase": "^3.0.0"
+  }
+}

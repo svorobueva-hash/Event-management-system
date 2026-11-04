@@ -1,0 +1,24 @@
+
+# Установленные зависимости
+node_modules/
+
+# Секреты и переменные окружения
+.env
+.env.*
+!.env.example
+
+# Временные файлы Supabase
+supabase/.temp/
+supabase/.branches/
+supabase/.profiles/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Настройки редактора
+.vscode/
